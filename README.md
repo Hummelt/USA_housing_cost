@@ -1,4 +1,4 @@
-# USA_housing_cost
+# USA housing cost
 ![city_image](https://images.unsplash.com/photo-1601332071777-583f25aa864d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1422&q=80)
 
 1. [The US house market](#business)
@@ -37,15 +37,15 @@ Analysis software and libraries:
 The data stems from Kaggle and can be found [here](https://www.kaggle.com/aariyan101/usa-housingcsv).
 
 **The dataset:**
-| #   |Column                       | Non-Null Count | Dtype  
-|---  ------------------------      |--------------  |-----  
-| 0   |Avg. Area Income             | 5000 non-null  | float64
-| 1   |Avg. Area House Age          | 5000 non-null  | float64
-| 2   |Avg. Area Number of Rooms    | 5000 non-null  | float64
-| 3   |Avg. Area Number of Bedrooms | 5000 non-null  | float64
-| 4   |Area Population              | 5000 non-null  | float64
-| 5   |Price                        | 5000 non-null  | float64
-| 6   |Address                      | 5000 non-null  | object
+| #   |Column                       | Non-Null Count | Dtype  |
+|---  |:------------------------:   |:--------------:|-----:  |
+| 0   |Avg. Area Income             | 5000 non-null  | float64|
+| 1   |Avg. Area House Age          | 5000 non-null  | float64|
+| 2   |Avg. Area Number of Rooms    | 5000 non-null  | float64|
+| 3   |Avg. Area Number of Bedrooms | 5000 non-null  | float64|
+| 4   |Area Population              | 5000 non-null  | float64|
+| 5   |Price                        | 5000 non-null  | float64|
+| 6   |Address                      | 5000 non-null  | object |
 
 ## Data preparation <a name="preparation"></a>
 
