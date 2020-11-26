@@ -56,3 +56,20 @@ The notebook "Linear Regression.ipynb" contains a complete procedure of data che
 For the predictive analysis part linear regression was applied. Input variable were 'Avg. Area Income', 'Avg. Area House Age', 'Avg. Area Number of Rooms', 'Avg. Area Number of Bedrooms', 'Area Population', 'Price', 'Address'. The output (the predicted value) was the 'Price'.
 
 ## Evaluation
+**What is the main contributor to the house cost?**
+
+![Heatmap](https://github.com/LarsTinnefeld/USA_housing_cost/blob/main/Correlation%20heatmap.png?raw=true)
+
+The correlation heatmap shows that the income area plays the biggest role when it comes to price. "Location! Location! Location!"
+
+**How is the cost for houses distributed?**
+
+![Distplot](https://github.com/LarsTinnefeld/USA_housing_cost/blob/main/Price%20distribution.png?raw=true)
+
+The mean house price is round about 1.25M dollars. The chart shows an evenly distribtuted Gauss distribution.
+
+**How accurate can predictions for house prices be made with linear regression?**
+
+![Coefftable](https://github.com/LarsTinnefeld/USA_housing_cost/blob/main/Coeff%20table.PNG?raw=true)
+
+The above table reflects the coefficents as the result of the analysis output.
