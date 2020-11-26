@@ -7,7 +7,7 @@
 4. [The Data](#data)
 3. [Data preparation](#preparation)
 4. [Modelling](#modelling)
-5. Evaluation
+5. [Evaluation](#evaluation)
 
 ## The US house market <a name="business"></a>
 Real estate economics applies economic techniques to describe, explain and predict patterns of prices, supply an demand for the US real estate market. A detailed article can be found in [Wikipedia](https://en.wikipedia.org/wiki/Real_estate_economics). Especially in the light of the ups and donwns of the house prices there is a interest to get a good oversight and grip on the cost situation.
@@ -48,7 +48,11 @@ The data stems from Kaggle and can be found [here](https://www.kaggle.com/aariya
 | 6   |Address                      | 5000 non-null  | object |
 
 ## Data preparation <a name="preparation"></a>
+The notebook "Linear Regression.ipynb" contains a complete procedure of data checks and cleaning. Applied verification methods:
+- Missing data check
+- Duplicate records
 
 ## Modelling <a name="modelling"></a>
+For the predictive analysis part linear regression was applied. Input variable were 'Avg. Area Income', 'Avg. Area House Age', 'Avg. Area Number of Rooms', 'Avg. Area Number of Bedrooms', 'Area Population', 'Price', 'Address'. The output (the predicted value) was the 'Price'.
 
-
+## Evaluation
