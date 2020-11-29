@@ -1,9 +1,6 @@
 # USA housing cost
 ![housing](https://static.wixstatic.com/media/7090dd_ba53ce486fda4a8683d525b577bc4ab9~mv2.gif)
 
-## The US house market <a name="business"></a>
-Real estate economics applies economic techniques to describe, explain and predict patterns of prices, supply an demand for the US real estate market. A detailed article can be found in [Wikipedia](https://en.wikipedia.org/wiki/Real_estate_economics). Especially in the light of the ups and donwns of the house prices there is a interest to get a good oversight and grip on the cost situation.
-
 ## Task and motivation <a name="motivation"></a>
 This analysis has the aim to develop a method to predict the cost of a house based on a range of input heatures. Initially, a range of features will be reviewed and compared with the aim to find patterns and correlations.
 Questions to clarify in detail:
